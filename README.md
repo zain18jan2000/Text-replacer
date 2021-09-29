@@ -1,5 +1,5 @@
 # Text-replacer
-A c program to find and replace a word in a File by another given word <br/>
+**A c program to find and replace a word in a File by another given word** <br/>
 <br/>
 A text replacing program can be helpful when we need to replace a word such as name by of a person by another word or name at more than one locations in a file.
 <br/><br/>
